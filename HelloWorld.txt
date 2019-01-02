@@ -1,6 +1,6 @@
 Class HelloWorld
 	{
-		static void  myMethod(){
+		void  myMethod(){
 
 
 
@@ -11,10 +11,11 @@ Class HelloWorld
 	public static void main(String args[])
 
 
-		{
+		{   HelloWorld hw=new HelloWorld();
 
 
-			myMethod();	
+
+			hw.myMethod();	
 		
 		}
 		
