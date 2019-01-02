@@ -1,6 +1,6 @@
 Class HelloWorld
 	{
-		static void  myMethod(){
+		static void  welcomeMethod(){
 
 
 
@@ -14,7 +14,7 @@ Class HelloWorld
 		{
 
 
-			myMethod();	
+			welcomeMethod();	
 		
 		}
 		
